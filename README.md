@@ -1,16 +1,17 @@
 # Weather City
 
-# Instruções de execução do sistema
+#Instruções de execução do sistema
 
 Instalar dependência do node
-´´ shell
-	npm install
-´´
+``` shell
+npm install
+```
 
 Rodar a aplicação em um dispositivo ou emulador
-´´ shell
-	react-native run-android
-´´
 
-# Instruções de execução do sistema
+```shell
+react-native run-android
+```
+
+# Instruções de utilização do sistema
 
